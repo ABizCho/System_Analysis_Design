@@ -1,2 +1,2 @@
 # System_Analysis_Design
-2020 ㅇㅇ, E-Biz, 시스템 분석 및 설계 관련 결과물을 저장한 레포
+2020 ㅇㅇ university, E-Biz, 시스템 분석 및 설계 관련 결과물을 저장한 레포
